@@ -9,11 +9,3 @@ location: "Munich, Germany"
 ---
 The [Software Engineering and Business Application (SEBA) Labs](https://wwwmatthes.in.tum.de/pages/18witnulbiwl6/SEBA-Lab-Course) is an opportunity for students to work on interesting projects in the field of web applications. Students will collaborate in small teams and implement a web application over the course of the term. Each team is advised by one teaching assistant of the chair. I served as an advisor in the course between 2022 - 2025.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
