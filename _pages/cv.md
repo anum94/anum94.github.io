@@ -56,6 +56,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Skills
+======
+
+* **Programming Languages:**
+Python, Java, C++, SQL
+
+* **Frameworks & Libraries:**
+PyTorch, TensorFlow, Keras, HuggingFace
+
+* **Machine Learning/AI:**
+Large Language Models (LLMs), LLM Benchmarking & Fine-tuning, RAG (Retrieval Augmented Generation), RAG Optimization, Gen AI, Computer Vision, Topic Modeling, Semantic Segmentation
+
+* **Cloud & DevOps:**
+AWS (S3, Lambda, SageMaker, DynamoDB), GitHub
+
+* **Other:**
+API Testing, Project Management, Technical Writing
+
 Service and leadership
 ======
 * **SAP@TUM Collaboration Lab:** Managed research collaborations, event management, and project setup between SAP SE and TUM

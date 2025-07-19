@@ -6,14 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Doctoral student at the Technical University of Munich, specializing in Domain Adaptation in Large Language Models. My research focuses on benchmarking, evaluation, and fine-tuning of large language models to advance the field of domain adaptation. 
+I am a Doctoral student (Ph.D. candidate) at the Technical University of Munich, specializing in Domain Adaptation and Optimizing Chain-of-Thought (CoT) for Large Language Models. My current research centers on benchmarking, evaluation, and fine-tuning of LLMs to push the boundaries of domain adaptation.a
 
-During my doctoral studies, I have collaborated with SAP and Holtzbrinck Publishing Group on projects related to Enterprise AI. 
+As part of my academic journey, I have actively partnered with industry leaders such as SAP and Holtzbrinck Publishing Group on various Enterprise AI projects. I am a proud member of the Industry on Campus initiative and the SAP@TUM Collaboration Lab, where I help foster and maintain collaborative research partnerships.
 
-I am also a proud member of the SAP@TUM Collaboration Lab, where I support SAP in establishing and maintaining research partnerships at TUM. Prior to my Ph.D., I worked at Munich Re for a year during my master's studies at TUM.
+My background as a Computer and Information Systems engineer has given me a strong theoretical foundation in Machine Learning, with experience spanning applications in both Natural Language Processing and Computer Vision. Highlights from my career include a year-long role at Munich Re working on deep learning proofs of concept for reinsurance, and my Master’s thesis—a joint project between Merck Group and TUM—focused on topic modeling of employee objectives using both classical ML and transformer models.
 
-In my free-time, I like to cook and if the weather allows, indulge in outdoor sports like hiking, cycling, running. I am also passionate about Coffee.
-
+Outside of work, I enjoy experimenting in the kitchen, discovering new recipes, and am passionate about coffee. I am also an avid outdoor enthusiast—whether it’s hiking, cycling, running, or yoga, I embrace any opportunity to stay active and enjoy the outdoors.
 
 
 Recent Updates
