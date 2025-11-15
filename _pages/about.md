@@ -17,6 +17,7 @@ Outside of work, I enjoy experimenting in the kitchen, discovering new recipes, 
 
 Recent Updates
 ======
+- **Nov 2025:** I have one paper Accepted at EMNLP 2025. Paper Link [DA-Pred: Performance Prediction for Text Summarization under Domain-Shift and Instruct-Tuning](https://aclanthology.org/2025.emnlp-main.387/)
 - **July 2025:** I will be starting as an Applied Science Intern at Amazon in Berlin this Summer.
 - **June 2025:** I have one paper Accepted at ACL 2025 Findings. Arxiv Preprint [Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion](https://arxiv.org/abs/2505.24362)
 - **April 2025:** I have returned to Technical University of Munich in Germany after finishing my internship at National Institute of Advanced Industrial Science and Technology in Tokyo, Japan.
